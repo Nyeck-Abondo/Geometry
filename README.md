@@ -1,4 +1,4 @@
-## **TRANSFORMATIONS DU LE PLAN**
+## **TRANSFORMATIONS DU PLAN**
 
 ### **Description du projet de Game Programming**
 
@@ -490,5 +490,6 @@ int main() {
 ### **resultat attendu** :
 
 **ECHEC : 0**
+
 
 **REUSSITE : 26**
